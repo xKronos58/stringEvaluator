@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EquationProgrammingChallenge/1.0.0": {
+        "runtime": {
+          "EquationProgrammingChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EquationProgrammingChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
